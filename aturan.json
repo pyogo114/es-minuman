@@ -1,0 +1,52 @@
+{
+  "minuman": [
+    {
+      "nama": "Cola Dingin",
+      "syarat": {
+        "cuaca": "panas",
+        "suasana_hati": "santai"
+      },
+      "alasan": "Cuaca panas ditemani suasana santai cocok dengan minuman bersoda yang dingin dan menyegarkan."
+    },
+    {
+      "nama": "Es Teh Manis",
+      "syarat": {
+        "cuaca": "panas",
+        "suasana_hati": "lelah"
+      },
+      "alasan": "Es teh manis memberi kesegaran dan tambahan gula untuk mengembalikan energi saat lelah di cuaca panas."
+    },
+    {
+      "nama": "Cokelat Panas",
+      "syarat": {
+        "cuaca": "dingin",
+        "suasana_hati": "sedih"
+      },
+      "alasan": "Cokelat panas memberi kehangatan dan efek menenangkan, cocok saat sedih di cuaca dingin."
+    },
+    {
+      "nama": "Kopi Hitam",
+      "syarat": {
+        "cuaca": "dingin",
+        "suasana_hati": "lelah"
+      },
+      "alasan": "Kopi hitam memberi kehangatan dan kafein untuk meningkatkan fokus saat lelah di cuaca dingin."
+    },
+    {
+      "nama": "Teh Hangat Madu",
+      "syarat": {
+        "cuaca": "hujan",
+        "suasana_hati": "sedih"
+      },
+      "alasan": "Teh hangat dengan madu menenangkan tenggorokan dan suasana hati saat hujan."
+    },
+    {
+      "nama": "Wedang Jahe",
+      "syarat": {
+        "cuaca": "hujan",
+        "suasana_hati": "santai"
+      },
+      "alasan": "Wedang jahe menghangatkan tubuh dan cocok dinikmati santai saat hujan."
+    }
+  ]
+}
